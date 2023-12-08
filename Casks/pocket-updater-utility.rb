@@ -1,6 +1,6 @@
 cask "pocket-updater-utility" do
-    version "2.37.0"
-    sha256 "f53630188384f1e71fedecf6e0972148b8a0a0c388c2531985c60e218fd1f48e"
+    version "2.38.0"
+    sha256 "3aa6e991fc88cc9a977abf23d793da47b6714badb6a8cca4a98c95871ab1f21c"
     url "https://github.com/mattpannella/pocket-updater-utility/releases/download/#{version}/pocket_updater_mac.zip"
     name "Pocket Updater Utility"
     desc "Utility for updating the openFPGA cores, and firmware, on your Analogue Pocket"
