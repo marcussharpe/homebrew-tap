@@ -1,6 +1,6 @@
 cask "pupdate" do
-    version "3.8.0"
-    sha256 "1d2790eb31a2faa80bbc8b6a620c19d5d9a43bc872279e9b34428092ccfe97a2"
+    version "3.9.0"
+    sha256 "834343330e789f194d68732542975fdaff5279e92f42c0d248a3c1391b393b5c"
     url "https://github.com/mattpannella/pupdate/releases/download/#{version}/pupdate_mac.zip"
     name "Pupdate"
     desc "Utility for updating the openFPGA cores, firmware, and a bunch of other stuff on your Analogue Pocket."
